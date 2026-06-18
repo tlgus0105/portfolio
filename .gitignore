@@ -1,0 +1,8 @@
+# OS
+.DS_Store
+
+# OMC state
+.omc/
+
+# Photoshop source files (too large for GitHub)
+*.psd
